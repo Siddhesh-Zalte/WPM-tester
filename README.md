@@ -22,5 +22,4 @@ A simple and interactive Typing Speed Test web application built with React.js. 
 
 ---
 
-## 📁 Project Structure
 
